@@ -1,0 +1,10 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: postgres-rls-lab
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: rls_lab
+    ports:
+      - "5432:5432"
