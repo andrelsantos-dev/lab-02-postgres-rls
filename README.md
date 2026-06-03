@@ -1,22 +1,24 @@
 # Lab 02 - PostgreSQL Row Level Security
 
-## Goal
+Hands-on laboratory to explore PostgreSQL Row Level Security (RLS)
+for multi-tenant SaaS applications.
 
-Learn PostgreSQL security fundamentals and Row Level Security (RLS)
-through incremental experiments.
+## Learning Path
 
-## Phases
-
-- Phase 00 - Security Basics
-- Phase 01 - Multi-tenant schema
-- Phase 02 - Basic RLS
-- Phase 03 - Session Variables
-- Phase 04 - Relationships and JOINs
-- Phase 05 - RLS Bypass
-- Phase 06 - Design Trade-offs
+| Phase | Topic |
+|---------|---------|
+| Phase 00 | PostgreSQL Security Basics |
+| Phase 01 | Multi-Tenant Schema |
+| Phase 02 | Basic RLS |
+| Phase 03 | Session Variables |
+| Phase 04 | Relationships |
+| Phase 05 | JOINs |
+| Phase 06 | RLS Bypass |
+| Phase 07 | Design Trade-offs |
+| Phase 08 | Lessons Learned |
 
 ## References
 
-- PostgreSQL Documentation
-- AWS SaaS Factory PostgreSQL RLS
-- AWS Prescriptive Guidance
+- [AWS SaaS Factory PostgreSQL RLS](https://github.com/aws-samples/aws-saas-factory-postgresql-rls)
+- [AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-managed-postgresql/rls.html)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/current/ddl-rowsecurity.html)
