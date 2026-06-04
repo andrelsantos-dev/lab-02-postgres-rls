@@ -5,6 +5,10 @@ ON patients
 TO app_user;
 
 --
+ALTER TABLE patients  
+ENABLE ROW LEVEL SECURITY; 
+
+--
 CREATE POLICY patients_allow_all
 ON patients
 FOR SELECT
