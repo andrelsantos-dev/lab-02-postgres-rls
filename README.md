@@ -15,8 +15,9 @@ for multi-tenant SaaS applications.
 | Phase 05 | JOINs |
 | Phase 06 | Owner vs RLS |
 | Phase 07 | RLS Bypass |
-| Phase 08 | Design Trade-offs |
-| Phase 09 | Lessons Learned |
+| Phase 08 | INSERT Policies (WITH CHECK) |
+| Phase 09 | Design Trade-offs |
+| Phase 10 | Lessons Learned |
 
 ## References
 
