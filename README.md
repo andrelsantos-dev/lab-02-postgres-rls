@@ -19,7 +19,8 @@ for multi-tenant SaaS applications.
 | Phase 09 | UPDATE Policies (USING + WITH CHECK) |
 | Phase 10 | DELETE Policies (USING) |
 | Phase 11 | Multiple Policies (PERMISSIVE Behavior) |
-| Phase 12 | Restrictive Policies (AND Behavior)|
+| Phase 12 | Restrictive Policies (AND Behavior) |
+| Phase 13 | Role-Specific Policies (Support User Access) |
 | Phase ... | ... |
 
 ## References
