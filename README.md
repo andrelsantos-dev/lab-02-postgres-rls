@@ -18,8 +18,8 @@ for multi-tenant SaaS applications.
 | Phase 08 | INSERT Policies (WITH CHECK) |
 | Phase 09 | UPDATE Policies (USING + WITH CHECK) |
 | Phase 10 | DELETE Policies (USING) |
-| Phase 11 | Design Trade-offs |
-| Phase 12 | Lessons Learned |
+| Phase 11 | Multiple Policies (PERMISSIVE Behavior) |
+| Phase ... | ... |
 
 ## References
 
