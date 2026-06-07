@@ -17,8 +17,9 @@ for multi-tenant SaaS applications.
 | Phase 07 | RLS Bypass |
 | Phase 08 | INSERT Policies (WITH CHECK) |
 | Phase 09 | UPDATE Policies (USING + WITH CHECK) |
-| Phase 10 | Design Trade-offs |
-| Phase 11 | Lessons Learned |
+| Phase 10 | DELETE Policies (USING) |
+| Phase 11 | Design Trade-offs |
+| Phase 12 | Lessons Learned |
 
 ## References
 
