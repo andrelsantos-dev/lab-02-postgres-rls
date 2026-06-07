@@ -23,7 +23,7 @@ for multi-tenant SaaS applications.
 | Phase 13 | Role-Specific Policies (Support User Access) |
 | Phase 14 | RLS and JOINs: Authorization Does Not Propagate Through Relationships |
 | Phase 15 | SECURITY DEFINER vs Row Level Security |
-| Phase ... | ... |
+| Phase 16 | Architectural Conclusions and Production Considerations |
 
 ## References
 
