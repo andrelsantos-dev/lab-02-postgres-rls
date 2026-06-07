@@ -21,6 +21,7 @@ for multi-tenant SaaS applications.
 | Phase 11 | Multiple Policies (PERMISSIVE Behavior) |
 | Phase 12 | Restrictive Policies (AND Behavior) |
 | Phase 13 | Role-Specific Policies (Support User Access) |
+| Phase 14 | RLS and JOINs: Authorization Does Not Propagate Through Relationships |
 | Phase ... | ... |
 
 ## References
